@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Zendmasten_DenHaag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "ID": "66698340", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.328595, 52.077066 ] } },
+{ "type": "Feature", "properties": { "ID": "63778305", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.369896, 52.064006 ] } },
+{ "type": "Feature", "properties": { "ID": "63017471", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.247717, 52.038875 ] } },
+{ "type": "Feature", "properties": { "ID": "63613054", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.257038, 52.052478 ] } },
+{ "type": "Feature", "properties": { "ID": "63713480", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.376319, 52.064706 ] } },
+{ "type": "Feature", "properties": { "ID": "63364922", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.221685, 52.061847 ] } },
+{ "type": "Feature", "properties": { "ID": "66591158", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.372016, 52.091302 ] } },
+{ "type": "Feature", "properties": { "ID": "66856372", "IMGEO_KLASSE": "Mast", "IMGEO_TYPE_PLUS": "zendmast" }, "geometry": { "type": "Point", "coordinates": [ 4.373134, 52.048642 ] } }
+]
+}
